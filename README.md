@@ -21,6 +21,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandini-gedela146)
 [![Codolio](https://img.shields.io/badge/Codolio-Portfolio-FF6B35?style=for-the-badge)](https://codolio.com/profile/Nandini_Gedela)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/u23a81a0581)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nandini_14_06/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/nandini146)
 
 </div>
 
@@ -114,6 +116,8 @@ Developed a Student Management System to manage student records efficiently. The
 ![CodeChef](https://img.shields.io/badge/CodeChef-500%2B_Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![Certificates](https://img.shields.io/badge/Certificates-4-22c55e?style=for-the-badge)
 ![Internship](https://img.shields.io/badge/AI--ML_Internship-Grade_O-ec4899?style=for-the-badge)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nandini_14_06/)
+[![GfG Profile](https://img.shields.io/badge/GeeksforGeeks-View_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/nandini146)
 
 <br/><br/>
 
@@ -169,6 +173,8 @@ Developed a Student Management System to manage student records efficiently. The
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandini-gedela146)
 [![Codolio](https://img.shields.io/badge/Codolio-Portfolio-FF6B35?style=for-the-badge)](https://codolio.com/profile/Nandini_Gedela)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/u23a81a0581)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nandini_14_06/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/nandini146)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/14Nandini)
 
 <br/>
