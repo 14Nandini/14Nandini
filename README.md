@@ -24,7 +24,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ===================== ABOUT ME ===================== -->
 ## 🧠 About Me
@@ -47,7 +47,7 @@ I am a final-year B.Tech student specializing in **Computer Science and Engineer
 ![Web](https://img.shields.io/badge/🌐_Web_Development_&_DBMS-3b82f6?style=for-the-badge)
 ![AI](https://img.shields.io/badge/🤖_AI_&_Machine_Learning-ec4899?style=for-the-badge)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
@@ -80,7 +80,7 @@ I am a final-year B.Tech student specializing in **Computer Science and Engineer
 | **Databases** | MySQL |
 | **Tools** | GitHub |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
@@ -102,16 +102,18 @@ Developed a Student Management System to manage student records efficiently. The
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Stats + languages cards. If one stops loading, the host is down; the streak and contribution graph below use other servers. -->
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=14Nandini&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=14Nandini&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Most Used Languages" />
+<!-- These badges use shields.io, which doesn't need a GitHub token, so they stay reliable. -->
+![Followers](https://img.shields.io/github/followers/14Nandini?style=for-the-badge&logo=github&color=a855f7&label=Followers)
+![CodeChef](https://img.shields.io/badge/CodeChef-500%2B_Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Certificates](https://img.shields.io/badge/Certificates-4-22c55e?style=for-the-badge)
+![Internship](https://img.shields.io/badge/AI--ML_Internship-Grade_O-ec4899?style=for-the-badge)
 
 <br/><br/>
 
@@ -127,7 +129,7 @@ Developed a Student Management System to manage student records efficiently. The
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ===================== ACHIEVEMENTS ===================== -->
 ## 🏆 Achievements & Certifications
@@ -142,7 +144,7 @@ Developed a Student Management System to manage student records efficiently. The
 
 <!-- Add new achievements by copying a row above -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 ## 📚 Currently Learning
@@ -156,7 +158,7 @@ Developed a Student Management System to manage student records efficiently. The
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Connect With Me
